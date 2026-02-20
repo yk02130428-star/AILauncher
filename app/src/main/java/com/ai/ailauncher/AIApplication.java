@@ -9,7 +9,7 @@ public class AIApplication extends Application {
 
     @Override
     public void onCreate() {
-        Log.d(TAG, "onCreate: c to Ai launcher");
+        Log.d(TAG, "onCreate: welcome to Ai launcher");
         super.onCreate();
     }
 }

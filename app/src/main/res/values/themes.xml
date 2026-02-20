@@ -5,5 +5,7 @@
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
-    <style name="Theme.AILauncher" parent="Base.Theme.AILauncher" />
+    <style name="Theme.AILauncher" parent="Base.Theme.AILauncher" >
+        <item name="android:windowBackground">@mipmap/launcher_img</item>
+    </style>
 </resources>
