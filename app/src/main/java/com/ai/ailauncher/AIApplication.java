@@ -11,6 +11,5 @@ public class AIApplication extends Application {
     public void onCreate() {
         Log.d(TAG, "onCreate: welcome to Ai launcher");
         super.onCreate();
-        Log.d(TAG, "onCreate: ");
     }
 }
